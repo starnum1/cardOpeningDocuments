@@ -41,12 +41,6 @@
 14.  JeffreyWilliams309401@outlook.com----obydbcbv62956 （0528）
 +15822691192----https://mail-api.yuecheng.shop/api/get_sms?key=eca_tr_fcMdo1FPFc8nYiFtPHiPgKFK
 
-15.
-+15824534358----https://mail-api.yuecheng.shop/api/get_sms?key=eca_tr_XsBrQsyaI7YvO7QZzFJT5IXa
-
-16.
-+15824534358----https://mail-api.yuecheng.shop/api/get_sms?key=eca_tr_XsBrQsyaI7YvO7QZzFJT5IXa
-
 17.
 +15822063686----https://mail-api.yuecheng.shop/api/public/message?key=eca_tr_KlEEkWQEQHUez6U8D6DSnfhc
 
